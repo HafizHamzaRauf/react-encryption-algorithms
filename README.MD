@@ -1,15 +1,11 @@
 # Encryption Algorithm Website
 
 ### Check Online
+[live url](https://encryption-algorithms.netlify.app)
 
 ## HomePage View
 
-[live url]('https://encryption-algorithms.netlify.app/form')
 ![Project Preview](./assets/homepage.png)
-
-## Selection Page
-
-![Project Preview](./assets/form.png)
 
 ## Form page
 
