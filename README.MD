@@ -4,6 +4,7 @@
 
 ## HomePage View
 
+[live url]('https://encryption-algorithms.netlify.app/form')
 ![Project Preview](./assets/homepage.png)
 
 ## Selection Page
